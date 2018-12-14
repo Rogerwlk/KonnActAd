@@ -16,5 +16,5 @@ https://docs.google.com/presentation/d/1a3nvGf3bdMVTx27a-GWFc1jHylTRabKB0mLnZQe6
 Final Presentation
 https://docs.google.com/presentation/d/1CVLyT8SRp_SsPTgHJ0aKeVDkUTDnnr7fniQgozSOd78/edit?usp=sharing
 
-Github repo
-https://github.com/ct-product-challenge-2018/pc072-roku
+Build Board
+http://buildboard-10044.cornelltech.io/fall-2018/team_pages/pc072-roku.html
